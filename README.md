@@ -10,6 +10,8 @@ By default, it uses **Brave Browser** for ad-blocking and privacy, but you can e
 
 ---
 
+**Made with ❤️ by Suga**
+**Please Star This Repo!**
 ## ✨ **AWESOME FEATURES** ✨
 
 ### 🎯 **Core Capabilities**
@@ -102,7 +104,8 @@ EchoAssistant/
 - **🔒 Privacy First** - Brave Browser is default for ad-blocking & privacy
 - **⚙️ GPU Optional** - TTS uses CPU by default; GPU setup is optional
 - **⚠️ Security Notice** - Use only **trusted sources** when opening links or running programs
+- **I can't guarantee the safety of the vosk, Coqui, and other models/packages since they are external not my own models/packages.**
 
 ---
 
-**Made with ❤️ by the Gecko Team**
+**Made with ❤️ by Suga**
