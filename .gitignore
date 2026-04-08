@@ -1,0 +1,44 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE/project files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Browser driver
+chromedriver/
+
+# Vosk model
+vosk-model-en-us-0.22/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Distribution/build files
+*.egg-info/
+dist/
+build/
+
+# Ignore all audio by default EXCEPT prebuiltphrases/
+*.wav
+*.mp3
+*.ogg
+
+# Keep prebuiltphrases folder and its contents
+!prebuiltphrases/
+!prebuiltphrases/**
